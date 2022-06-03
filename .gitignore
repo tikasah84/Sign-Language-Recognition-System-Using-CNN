@@ -5,8 +5,11 @@ __pycache__/
 *.jpg
 # C extensions
 *.so
-
+*.npy
+*.h5
 # Distribution / packaging
+data/
+data2/
 .Python
 build/
 develop-eggs/
